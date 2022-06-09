@@ -13,7 +13,7 @@
 
 _Laser engraved ceramics pieces, sand, rocks, web cam, headphones, live opencv software._
 
->"Ancestor + Futurism are two terms that apparently emerge from an impossibility, from the ambivalence between two disparate realms: archaism and future. [...] ancestrofuturism requests concepts that work with other notions of time and resignify the assumed linearity between past and future, i.e., concepts that deconstruct the idea of vertical time and history — from archaism pointing towards the future — and that horizontalize this perspective." - Fabi Borges
+    "Ancestor + Futurism are two terms that apparently emerge from an impossibility, from the ambivalence between two disparate realms: archaism and future. [...] ancestrofuturism requests concepts that work with other notions of time and resignify the assumed linearity between past and future, i.e., concepts that deconstruct the idea of vertical time and history — from archaism pointing towards the future — and that horizontalize this perspective." - Fabi Borges
 
 Arche-scripture speculates a post-technological state of digital information through an ancestro-futuristic perspective. The laser  engraved ceramics proposes an archaic digital medium, a paradox of  fragility and permanence made tangible and audible. 
 
