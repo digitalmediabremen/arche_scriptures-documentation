@@ -96,6 +96,14 @@ There are multiple ways in which this process can be greatly improved, certain a
 
 For cases in which the reading process needs to have a higher level of confidence, redundancy of data should be implemented, but that would require a much greater amount of space for the same amount of information.
 
+![](/images/Figure_8.png)
+
+![](/images/Figure_2.png)
+
+![](/images/Figure_5.png)
+
+_translation of the audio voices into a 2d grid for later to be converted to bits_
+
 ### Sound Design
 
 The sound design of the Hochschultage installation version was developed by Chi Him Chik using Max/MSP.
@@ -133,6 +141,4 @@ The sound design of the Hochschultage installation version was developed by Chi 
 - Browser display software for the Master Project Exhibition [mneunomne/archeology](https://github.com/mneunomne/archeology)
 - Fork from the YOLOv5 library to work on the abandoned OCR part of the project [mneunomne/YOLOv5](https://github.com/mneunomne/yolov5)
 - [Pandemic Archive of Voices](https://github.com/mneunomne/pandemic-archive-of-voices-DB)
-
-
-
+- [Python Audio Conversion Process](https://mneunomne.github.io/ArcheWriting/ArcheWriting.html)
