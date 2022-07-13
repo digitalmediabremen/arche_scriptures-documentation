@@ -7,11 +7,11 @@
 - Lecturers: Ralf Baecker, Dennis Paul
 - Year: WS 2021/22
 
-## Resarch Abstract
+## Arche-scriptures
 
-Arche-scriptures researches the usage of ceramics as a possible medium for storing of digital information.  
+ARCHE-SCRIPTURES revolves around understanding ceramics as a possible medium to store digital information. It "emerges from an impossibility, from the ambivalence between two disparate realms: archaism and future" - it proposes an archaic digital medium, a paradox of fragility and permanence, which seeks to "resignify the assumed linearity between past and future, deconstruct the idea of vertical time, history and technology".
 
-This project investigates the multiple possible and impossible relationships between ceramic as a digital medium, the audio data to be stored in it, and the methods to transmit and translate the message back to the viewer (or listener). This investigation includes multiple failues and dead-ends until it reached the final exhibiting format of a real simuation of an archeological site.
+During the Hochschultage 2022, ARCHE-SCRIPTURES presents itself as a speculative archeological dig-site. At the courtyard of HfK Speicher XI building, a ceramic artifact is being scanned by an decrypting machine, through which the visitor is invited to listen as the original audio data engraved onto the ceramics is slowly retrieved and sonified. The experience offers a glimpse on a possible future past, it speculates on the future of our digital traces through an ancestro-futuristic perspective, provoking a discussion about continuity, preservation and archiving.
 
 ## Ancestro-futurism
 
@@ -19,9 +19,11 @@ This project investigates the multiple possible and impossible relationships bet
 
 ## Research
 
-### Initial references
+This project investigates the multiple possible relationships between ceramic as a digital medium, the audio data to be stored in it, and the methods to transmit and translate the message back to the viewer (or listener). This investigation includes multiple failues and dead-ends until it reached the final exhibiting format of a real simuation of an archeological site.
 
-The initial interest of this research was a convergence of multiple vectors which combined themselves 
+### Starting point
+
+The starting point of this research lies on the matter of digital archives, and how they are in fact materialized. After the development of the project "Pandemic Archive of Voices", a concern was made present: onto what and where are our digital traces being materilized? wheather shifting on metal-oxide semiconductors or in spinning magnetic cores at data centres unevenly spread across the globe, they belong to opaque structures to which we have minimal agency.
 
 ### Abandoned method of Optical Character Recognition
 
@@ -112,21 +114,3 @@ For the Hochschultage exhibition at Hfk, the installation evolved from the previ
 ![](/images/_MG_5410.png)
 
 ![](/images/_MG_5428.png)
-
----------
-
-## Narration 
-
-The initial traces of this project go back to the end of 2020, when during the lockdown period "the pandemic archive of voices" was created, which was an archiving project which attempted to record the voices of the people sorrounding my community, where each person recorded a word of expresstion that could translate their personal experience of the pandemic. From that project multiple iterations were made, and the archive was structure as an API.
-
-But from this Archiving initiative I was then concerned with on how this information was being stored, how and where these digital traces of our subjectivity were being stored in some sort of material - where were these memories actually being materialized, how were they engraved. Since 
-
-Argumentation:
-
--> Pandemic archive of voices
-
--> Materialization of memory
-
--> Found in ceramic as a material that could make this memory tangile and also bend the notions of technology and time, as a material that could in theory outlast divices of digital memory
-
--> from this research I was attempting to materialize this archive   i wis
