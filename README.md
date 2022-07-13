@@ -4,7 +4,7 @@
 - Category: Semesterarbeit
 - Students: Alberto Harres
 - Course Title: Master Project 2021-22
-- Lecturers: Ralf Baecker, Dennis Paul
+- Lecturers: Prof. Ralf Baecker, Prof. Dennis P Paul
 - Year: WS 2021/22
 
 ## __ARCHE-SCRIPTURES__
@@ -98,19 +98,19 @@ For cases in which the reading process needs to have a higher level of confidenc
 
 ![](/images/Figure_8.png)
 
-![](/images/Figure_2.png)
-
-![](/images/Figure_5.png)
-
 _translation of the audio voices into a 2d grid for later to be converted to bits_
-
-### Sound Design
-
-The sound design of the Hochschultage installation version was developed by Chi Him Chik using Max/MSP.
 
 ![](/images/max_msp.png)
 
-## Initial installation sketches
+## Sound Design
+
+The sound design of the Hochschultage installation version was developed by [Chi Him Chik](http://www.chihimchik.com/) using Max/MSP.
+
+## Early Sketches
+
+![](/images/sketches.png)
+
+![](/images/sketches2.png)
 
 ## Master Project Exhibition - Dauerwelle
 
@@ -142,3 +142,10 @@ The sound design of the Hochschultage installation version was developed by Chi 
 - Fork from the YOLOv5 library to work on the abandoned OCR part of the project [mneunomne/YOLOv5](https://github.com/mneunomne/yolov5)
 - [Pandemic Archive of Voices](https://github.com/mneunomne/pandemic-archive-of-voices-DB)
 - [Python Audio Conversion Process](https://mneunomne.github.io/ArcheWriting/ArcheWriting.html)
+
+## Credits:
+
+- Documentation Photos & Setup: __Kazu^2__
+- Sound Design: __Chi Him Chik__
+- Assistance in ceramic production: __Prof. Ute Fischer__
+- Assistance in eletronics: __Felix Fisgus__ 
