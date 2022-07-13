@@ -103,6 +103,8 @@ For the Hochschultage exhibition at Hfk, the installation evolved from the previ
 
 ![](/images/arche-scriptures_big.gif)
 
+![](/images/arche-scriptures_Capture_big.gif)
+
 ![](/images/_MG_5399.png)
 
 ![](/images/_MG_5443.png)
@@ -122,6 +124,9 @@ But from this Archiving initiative I was then concerned with on how this informa
 Argumentation:
 
 -> Pandemic archive of voices
+
 -> Materialization of memory
+
 -> Found in ceramic as a material that could make this memory tangile and also bend the notions of technology and time, as a material that could in theory outlast divices of digital memory
--> from this research I was attempting to materialize this archive   
+
+-> from this research I was attempting to materialize this archive   i wis
