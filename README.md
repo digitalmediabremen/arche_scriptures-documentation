@@ -17,6 +17,13 @@ During the [Hochschultage 2022](https://www.hfk-bremen.de/hochschultage2022), __
 
 The data stored in the ceramic pieces consists of voice recordings extracted from the [Pandemic Archive of Voices](http://pandemic-archive-of-voices.herokuapp.com/). In the headphones one can listen to the software attempting to read back the engraved information. The surviving piece being decrypted by the machine has engraved the sound of the word _“dalijna”_, meaning _“distance”_.
 
+![](/images/IMG_5323.png)
+
+![](/images/IMG_5277.png)
+
+![](/images/IMG_5298.png)
+
+![](/images/_MG_5365.png)
 
 ![](/images/_MG_5399.png)
 
@@ -30,11 +37,11 @@ The data stored in the ceramic pieces consists of voice recordings extracted fro
 
 ## Research
 
-__ARCHE-SCRIPTURES__ investigates the multiple possible relationships between ceramic as a digital medium, the audio data to be stored in it, and the methods to transmit and translate the message back to the viewer (or listener). This investigation includes multiple failues and dead-ends until it reached the final exhibiting format. 
+__ARCHE-SCRIPTURES__ investigates the multiple possible relationships between ceramic as a digital medium, the audio data to be stored in it, and the methods to transmit and translate the message back to the viewer (or listener). This investigation includes multiple failures and dead-ends until it reached the final exhibiting format. 
 
 ### Starting point
 
-The research's starting point lies on the matter of digital archives, and how they are in fact materialized. After the development of the project "Pandemic Archive of Voices", a concern was made present: onto what and where are our digital traces being materilized? wheather shifting on metal-oxide semiconductors or in spinning magnetic cores at data centres unevenly spread across the globe, they belong to opaque structures to which we have minimal agency. 
+The research's starting point lies on the matter of digital archives, and how they are in fact materialized. After the development of the project "Pandemic Archive of Voices", a concern was made present: onto what and where are our digital traces being materialized? weather shifting on metal-oxide semiconductors or in spinning magnetic cores at data centers unevenly spread across the globe, they belong to opaque structures to which we have minimal agency. 
 
 ### Initial references
 
@@ -54,7 +61,7 @@ Attempting to overcome these contradictions while facing archiving as a politica
 
 The process of creating the laser engraved slabs of ceramics:
 
-1. Make the clay slabs using flatning tool (forgot the name)
+1. Make the clay slabs using flattening tool (forgot the name)
 2. Put the clays to dry on a flat surface. To make sure that they don't naturally bend, leave a weighted flat object on top of the clay piece.
 3. After they are flat enough not to bend any longer, bring them to the laser engraving.
 4. The following laser engraving parameters work well for red-clay.
@@ -62,37 +69,40 @@ The process of creating the laser engraved slabs of ceramics:
 
 ### Plattengestaltung
 
-To make the process of generating the sound image data more streamlined, I created this online tool which automatically converts the audio data to bits and exports it in .svg, which can be later directly used bu the laser cutting software.
+To make the process of generating the sound image data more streamlined, I created this online tool which automatically converts the audio data to bits and exports it in .svg, which can be later directly used by the laser cutting software.
 
 ![](/images/platten_gestaltung.png)
 
 ### Optical Character Recognition
 
-In the initial phase of the research, I attempted to expriment with a system of Optical Character Recognition (OCR) in order to store bit data into to plate. With this approach it was expected to have a flexible method which would also be aethetically fitting to aethetics of archeology.
+In the initial phase of the research, I attempted to experiment with a system of Optical Character Recognition (OCR) in order to store bit data into the plate. With this approach it was expected to have a flexible method which would also be aesthetically fitting to aesthetics of archeology.
 
 ![](/images/results.gif)
 
 
 ![](https://camo.githubusercontent.com/3273f9c505aa5d244c78f3576b32156f2631295d55f7392ccdfd51515caec1a0/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f4a6a57656a35504b50506f5a45705661774451324a537a6975596a38363577574244535967684c574f54564a4b7966784c7645735f547169386f674f44766630423131655a67764f6e2d48656a34464d7a50524b6e415470364a6a38646d64617130324a33635444306c5650384f71367a71564b35686548704a745559324b6c69674f6c617856475841534b)
 
-
 ### Encoding the audio data
 
-For the audio file to be encoded into a bit-image that is ready to be laser-engraved, there are multiple steps of conversion, compression and formating that are necessary.
+For the audio file to be encoded into a bit-image that is ready to be laser-engraved, there are multiple steps of conversion, compression and formatting that are necessary.
 
-- convert .wav audio file to the minimal compression possible (8bit, 4000 samplerate)
+- convert .wav audio file to the minimal compression possible (8bit, 4000 sample rate)
 - extract the raw waveform data out of the wavefile
 - convert the 8bit numbers into 8 bits of `0` or `1`
-- render the bit list into a grid of white and black squared.
-- shape the bit grid to the dimentions of the clay piece which will be lasered
+- render the bit list into a grid of white and black squares.
+- shape the bit grid to the dimensions of the clay piece which will be lasered
 
 There are multiple ways in which this process can be greatly improved, certain approaches are intentionally avoided, such as more "abstract" modes of compression, which would make the data smaller but more fragile.
 
-For cases in which the reading process needs to have a higher level of confidence, redundance of data should be implemented, but that would required a much greater ammount of space for the same ammount of information.
+For cases in which the reading process needs to have a higher level of confidence, redundancy of data should be implemented, but that would require a much greater amount of space for the same amount of information.
+
+### Sound Design
+
+The sound design of the Hochschultage installation version was developed by Chi Him Chik using Max/MSP.
+
+![](/images/max_msp.png)
 
 ## Initial installation sketches
-
-
 
 ## Master Project Exhibition - Dauerwelle
 
@@ -112,9 +122,17 @@ For cases in which the reading process needs to have a higher level of confidenc
 
 ### References:
 
+1. [Archivist Manifesto, Yuk Hui](https://www.metamute.org/editorial/lab/archivist-manifesto)
+2. [Between Matter and Hand: On Gaston Bachelard’s Theory of Material Imagination, Yanping Gao](http://jcla.in/wp-content/uploads/2019/10/YANPING-GAO.pdf)
+3. [ANCESTROFUTURISM Ancestralities and Technoshamanism - Fabiane M Borges](http://europia.org/cac6/CAC-Pdf/12-CAC6-16-Fabi_Malu_Ancestrofuturism.pdf)
+
 
 ### Open Source Softwares:
 - Processing/Arduino Code for the Hochscultage software version [mneunomne/archeReaderController](https://github.com/mneunomne/archeReaderController)
 - Python/OpenCV Code for the software used in Master Project Exhibition [mneunomne/fiducial_marker](https://github.com/mneunomne/fiducial_marker)
 - Browser display software for the Master Project Exhibition [mneunomne/archeology](https://github.com/mneunomne/archeology)
 - Fork from the YOLOv5 library to work on the abandoned OCR part of the project [mneunomne/YOLOv5](https://github.com/mneunomne/yolov5)
+- [Pandemic Archive of Voices](https://github.com/mneunomne/pandemic-archive-of-voices-DB)
+
+
+
