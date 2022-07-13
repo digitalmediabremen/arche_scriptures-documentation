@@ -79,9 +79,6 @@ In the initial phase of the research, I attempted to experiment with a system of
 
 ![](/images/results.gif)
 
-
-![](https://camo.githubusercontent.com/3273f9c505aa5d244c78f3576b32156f2631295d55f7392ccdfd51515caec1a0/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f4a6a57656a35504b50506f5a45705661774451324a537a6975596a38363577574244535967684c574f54564a4b7966784c7645735f547169386f674f44766630423131655a67764f6e2d48656a34464d7a50524b6e415470364a6a38646d64617130324a33635444306c5650384f71367a71564b35686548704a745559324b6c69674f6c617856475841534b)
-
 ### Encoding the audio data
 
 For the audio file to be encoded into a bit-image that is ready to be laser-engraved, there are multiple steps of conversion, compression and formatting that are necessary.
@@ -100,11 +97,11 @@ For cases in which the reading process needs to have a higher level of confidenc
 
 _translation of the audio voices into a 2d grid for later to be converted to bits_
 
-![](/images/max_msp.png)
-
 ## Sound Design
 
 The sound design of the Hochschultage installation version was developed by [Chi Him Chik](http://www.chihimchik.com/) using Max/MSP.
+
+![](/images/max_msp.png)
 
 ## Early Sketches
 
