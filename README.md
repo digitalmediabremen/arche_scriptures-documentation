@@ -7,30 +7,47 @@
 - Lecturers: Ralf Baecker, Dennis Paul
 - Year: WS 2021/22
 
-## Arche-scriptures
+## __ARCHE-SCRIPTURES__
 
-ARCHE-SCRIPTURES revolves around understanding ceramics as a possible medium to store digital information. It "emerges from an impossibility, from the ambivalence between two disparate realms: archaism and future" - it proposes an archaic digital medium, a paradox of fragility and permanence, which seeks to "resignify the assumed linearity between past and future, deconstruct the idea of vertical time, history and technology".
+![](/images/arche-scriptures_big.gif)
 
-During the Hochschultage 2022, ARCHE-SCRIPTURES presents itself as a speculative archeological dig-site. At the courtyard of HfK Speicher XI building, a ceramic artifact is being scanned by an decrypting machine, through which the visitor is invited to listen as the original audio data engraved onto the ceramics is slowly retrieved and sonified. The experience offers a glimpse on a possible future past, it speculates on the future of our digital traces through an ancestro-futuristic perspective, provoking a discussion about continuity, preservation and archiving.
+__ARCHE-SCRIPTURES__ revolves around understanding ceramics as a possible medium to store digital information. It _"emerges from an impossibility, from the ambivalence between two disparate realms: archaism and future"_ - it proposes an archaic digital medium, a paradox of fragility and permanence, which seeks to _"resignify the assumed linearity between past and future, deconstruct the idea of vertical time, history and technology"_.
 
-## Ancestro-futurism
+During the [Hochschultage 2022](https://www.hfk-bremen.de/hochschultage2022), __ARCHE-SCRIPTURES__ presents itself as a speculative archeological dig-site. At the courtyard of HfK Speicher XI building, a ceramic artifact is being scanned by an decrypting machine, through which the visitor is invited to listen as the original audio data engraved onto the ceramics is slowly retrieved and sonified. The experience offers a glimpse on a possible future past, it speculates on the future of our digital traces through an ancestro-futuristic perspective, provoking a discussion about continuity, preservation and archiving.
 
->"Ancestor + Futurism are two terms that apparently emerge from an impossibility, from the ambivalence between two disparate realms: archaism and future. [...] ancestrofuturism requests concepts that work with other notions of time and resignify the assumed linearity between past and future, i.e., concepts that deconstruct the idea of vertical time and history — from archaism pointing towards the future — and that horizontalize this perspective." - Fabi Borges
+The data stored in the ceramic pieces consists of voice recordings extracted from the [Pandemic Archive of Voices](http://pandemic-archive-of-voices.herokuapp.com/). In the headphones one can listen to the software attempting to read back the engraved information. The surviving piece being decrypted by the machine has engraved the sound of the word _“dalijna”_, meaning _“distance”_.
+
+
+![](/images/_MG_5399.png)
+
+![](/images/_MG_5443.png)
+
+![](/images/_MG_5410.png)
+
+![](/images/_MG_5428.png)
+
+![](/images/arche-scriptures_Capture_big.gif)
 
 ## Research
 
-This project investigates the multiple possible relationships between ceramic as a digital medium, the audio data to be stored in it, and the methods to transmit and translate the message back to the viewer (or listener). This investigation includes multiple failues and dead-ends until it reached the final exhibiting format of a real simuation of an archeological site.
+__ARCHE-SCRIPTURES__ investigates the multiple possible relationships between ceramic as a digital medium, the audio data to be stored in it, and the methods to transmit and translate the message back to the viewer (or listener). This investigation includes multiple failues and dead-ends until it reached the final exhibiting format. 
 
 ### Starting point
 
-The starting point of this research lies on the matter of digital archives, and how they are in fact materialized. After the development of the project "Pandemic Archive of Voices", a concern was made present: onto what and where are our digital traces being materilized? wheather shifting on metal-oxide semiconductors or in spinning magnetic cores at data centres unevenly spread across the globe, they belong to opaque structures to which we have minimal agency.
+The research's starting point lies on the matter of digital archives, and how they are in fact materialized. After the development of the project "Pandemic Archive of Voices", a concern was made present: onto what and where are our digital traces being materilized? wheather shifting on metal-oxide semiconductors or in spinning magnetic cores at data centres unevenly spread across the globe, they belong to opaque structures to which we have minimal agency. 
 
-### Abandoned method of Optical Character Recognition
+### Initial references
 
-In the initial phase of the research, I attempted to expriment with a system of Optical Character Recognition (OCR) in order to store bit data into to plate. With this approach it was expected to have a flexible method which would also be aethetically fitting to aethetics of archeology.
+Attempting to overcome these contradictions while facing archiving as a political and poetical problem, I decided to then look back in history, to the earlier forms in which language and memory was stored/materialized.
 
-![](/images/detections.png)
+![babilonian scripts](https://ras.ac.uk/sites/default/files/styles/media_demo_full_cropped/public/2021-05/cuneiform%20tablet%20from%20the%20British%20Museum.jpg?itok=nupb9h29)
 
+*Cuneiform tablet from the British Museum which contains Babylonian eclipse tables.*
+
+![oracle bone scripts](https://blogs.bl.uk/.a/6a00d8341c464853ef01b8d184cabb970c-580wi)
+
+*Shang dynasty characters on fragments of an oracle bone dating between 1600 and 1050 BC. British Library, Or. 7694/1516*
+  
 ### Laser engraving ceramics
 
 ![](/images/placas_ceramica.png)
@@ -42,6 +59,12 @@ The process of creating the laser engraved slabs of ceramics:
 3. After they are flat enough not to bend any longer, bring them to the laser engraving.
 4. The following laser engraving parameters work well for red-clay.
 5. Bring the lasered clay piece to be fired. In order for the engraving to be uniform across the plate, the heat during the firing process needs to also be more-or-less uniform across the piece. 
+
+### Optical Character Recognition
+
+In the initial phase of the research, I attempted to expriment with a system of Optical Character Recognition (OCR) in order to store bit data into to plate. With this approach it was expected to have a flexible method which would also be aethetically fitting to aethetics of archeology.
+
+![](/images/detections.png)
 
 ### Plattengestaltung
 
@@ -63,27 +86,11 @@ There are multiple ways in which this process can be greatly improved, certain a
 
 For cases in which the reading process needs to have a higher level of confidence, redundance of data should be implemented, but that would required a much greater ammount of space for the same ammount of information.
 
-### Machinic reading process
-
-
-
 ## Installation 
 
 The installation concept proposes to incorporate the pragmatic failures of the research as an audible experience of   
 
 ### Initial installation sketches
-
-
-
-### Abstract
-
-Arche-scripture speculates a post-technological state of digital information through an ancestro-futuristic perspective. The laser  engraved ceramics proposes an archaic digital medium, a paradox of  fragility and permanence made tangible and audible. 
-
-The data stored in the ceramic pieces consists of voice recordings extracted from the Pandemic Archive of Voices. In the headphones one can listen to the software attempting to read back the engraved information. The central surviving piece engraves the sound of the word “dalijna”, meaning “distance”.
-
-### Learning to Draw Exhibition - Nebenflut
-
-
 
 ### Master Project Exhibition - Dauerwelle
 
@@ -98,19 +105,3 @@ The data stored in the ceramic pieces consists of voice recordings extracted fro
 ![](/images/P1022314.JPG)
 
 ![](/images/P1022308.JPG)
-
-## Hochschultage
-
-For the Hochschultage exhibition at Hfk, the installation evolved from the previous setting into simulating a real archeological dig-site on the Speicher XI courtyard area.
-
-![](/images/arche-scriptures_big.gif)
-
-![](/images/arche-scriptures_Capture_big.gif)
-
-![](/images/_MG_5399.png)
-
-![](/images/_MG_5443.png)
-
-![](/images/_MG_5410.png)
-
-![](/images/_MG_5428.png)
