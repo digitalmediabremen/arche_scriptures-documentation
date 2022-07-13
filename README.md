@@ -60,17 +60,21 @@ The process of creating the laser engraved slabs of ceramics:
 4. The following laser engraving parameters work well for red-clay.
 5. Bring the lasered clay piece to be fired. In order for the engraving to be uniform across the plate, the heat during the firing process needs to also be more-or-less uniform across the piece. 
 
-### Optical Character Recognition
-
-In the initial phase of the research, I attempted to expriment with a system of Optical Character Recognition (OCR) in order to store bit data into to plate. With this approach it was expected to have a flexible method which would also be aethetically fitting to aethetics of archeology.
-
-![](/images/detections.png)
-
 ### Plattengestaltung
 
 To make the process of generating the sound image data more streamlined, I created this online tool which automatically converts the audio data to bits and exports it in .svg, which can be later directly used bu the laser cutting software.
 
 ![](/images/platten_gestaltung.png)
+
+### Optical Character Recognition
+
+In the initial phase of the research, I attempted to expriment with a system of Optical Character Recognition (OCR) in order to store bit data into to plate. With this approach it was expected to have a flexible method which would also be aethetically fitting to aethetics of archeology.
+
+![](/images/results.gif)
+
+
+![](https://camo.githubusercontent.com/3273f9c505aa5d244c78f3576b32156f2631295d55f7392ccdfd51515caec1a0/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f4a6a57656a35504b50506f5a45705661774451324a537a6975596a38363577574244535967684c574f54564a4b7966784c7645735f547169386f674f44766630423131655a67764f6e2d48656a34464d7a50524b6e415470364a6a38646d64617130324a33635444306c5650384f71367a71564b35686548704a745559324b6c69674f6c617856475841534b)
+
 
 ### Encoding the audio data
 
@@ -86,13 +90,11 @@ There are multiple ways in which this process can be greatly improved, certain a
 
 For cases in which the reading process needs to have a higher level of confidence, redundance of data should be implemented, but that would required a much greater ammount of space for the same ammount of information.
 
-## Installation 
+## Initial installation sketches
 
-The installation concept proposes to incorporate the pragmatic failures of the research as an audible experience of   
 
-### Initial installation sketches
 
-### Master Project Exhibition - Dauerwelle
+## Master Project Exhibition - Dauerwelle
 
 ![](/website/P1022200_v2.JPG)
 
@@ -105,3 +107,14 @@ The installation concept proposes to incorporate the pragmatic failures of the r
 ![](/images/P1022314.JPG)
 
 ![](/images/P1022308.JPG)
+
+## Links
+
+### References:
+
+
+### Open Source Softwares:
+- Processing/Arduino Code for the Hochscultage software version [mneunomne/archeReaderController](https://github.com/mneunomne/archeReaderController)
+- Python/OpenCV Code for the software used in Master Project Exhibition [mneunomne/fiducial_marker](https://github.com/mneunomne/fiducial_marker)
+- Browser display software for the Master Project Exhibition [mneunomne/archeology](https://github.com/mneunomne/archeology)
+- Fork from the YOLOv5 library to work on the abandoned OCR part of the project [mneunomne/YOLOv5](https://github.com/mneunomne/yolov5)
