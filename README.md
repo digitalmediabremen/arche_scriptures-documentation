@@ -19,45 +19,45 @@ The data stored in the ceramic pieces consists of voice recordings extracted fro
 
 ## Hochschultage 2022
 
-![](https://github.com/digitalmediabremen/arche_scriptures-documentation/raw/main/images/IMG_5323.png)
+![](/images/IMG_5323.png)
 
-![](https://github.com/digitalmediabremen/arche_scriptures-documentation/raw/main/images/IMG_5277.png)
+![](/images/IMG_5277.png)
 
-![](https://github.com/digitalmediabremen/arche_scriptures-documentation/raw/main/images/IMG_5298.png)
+![](/images/IMG_5298.png)
 
-![](https://github.com/digitalmediabremen/arche_scriptures-documentation/raw/main/images/_MG_5365.png)
+![](/images/_MG_5365.png)
 
-![](https://github.com/digitalmediabremen/arche_scriptures-documentation/raw/main/images/_MG_5399.png)
+![](/images/_MG_5399.png)
 
-![](https://github.com/digitalmediabremen/arche_scriptures-documentation/raw/main/images/_MG_5443.png)
+![](/images/_MG_5443.png)
 
-![](https://github.com/digitalmediabremen/arche_scriptures-documentation/raw/main/images/_MG_5410.png)
+![](/images/_MG_5410.png)
 
-![](https://github.com/digitalmediabremen/arche_scriptures-documentation/raw/main/images/_MG_5428.png)
+![](/images/_MG_5428.png)
 
-![](https://github.com/digitalmediabremen/arche_scriptures-documentation/raw/main/images/arche-scriptures_Capture_big.gif)
+![](/images/arche-scriptures_Capture_big.gif)
 
 ## Master Project Exhibition @ Dauerwelle
 
-![](https://github.com/digitalmediabremen/arche_scriptures-documentation/raw/main/website/P1022200_v2.JPG)
+![](/website/P1022200_v2.JPG)
 
-![](https://github.com/digitalmediabremen/arche_scriptures-documentation/raw/main/images/P1022195.JPG)
+![](/images/P1022195.JPG)
 
-![](https://github.com/digitalmediabremen/arche_scriptures-documentation/raw/main/images/P1022350.JPG)
+![](/images/P1022350.JPG)
 
-![](/https://github.com/digitalmediabremen/arche_scriptures-documentation/raw/mainimages/P1022281.JPG)
+![](/images/P1022281.JPG)
 
-![](https://github.com/digitalmediabremen/arche_scriptures-documentation/raw/main/images/P1022314.JPG)
+![](/images/P1022314.JPG)
 
-![](https://github.com/digitalmediabremen/arche_scriptures-documentation/raw/main/images/P1022308.JPG)
+![](/images/P1022308.JPG)
 
 ## Learning to Draw @ Galerie Flut
 
-![](https://github.com/digitalmediabremen/arche_scriptures-documentation/raw/main/images/P1066583.JPG)
+![](/images/P1066583.JPG)
 
-![](https://github.com/digitalmediabremen/arche_scriptures-documentation/raw/main/images/P1066768.JPG)
+![](/images/P1066768.JPG)
 
-![](https://github.com/digitalmediabremen/arche_scriptures-documentation/raw/main/images/P1066889.JPG)
+![](/images/P1066889.JPG)
 
 ## Research
 
