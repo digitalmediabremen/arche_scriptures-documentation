@@ -17,6 +17,8 @@ During the [Hochschultage 2022](https://www.hfk-bremen.de/hochschultage2022), __
 
 The data stored in the ceramic pieces consists of voice recordings extracted from the [Pandemic Archive of Voices](http://pandemic-archive-of-voices.herokuapp.com/). In the headphones one can listen to the software attempting to read back the engraved information. The surviving piece being decrypted by the machine has engraved the sound of the word _“dalijna”_, meaning _“distance”_.
 
+## Hochschultage 2022
+
 ![](/images/IMG_5323.png)
 
 ![](/images/IMG_5277.png)
@@ -34,6 +36,28 @@ The data stored in the ceramic pieces consists of voice recordings extracted fro
 ![](/images/_MG_5428.png)
 
 ![](/images/arche-scriptures_Capture_big.gif)
+
+## Master Project Exhibition @ Dauerwelle
+
+![](/website/P1022200_v2.JPG)
+
+![](/images/P1022195.JPG)
+
+![](/images/P1022350.JPG)
+
+![](/images/P1022281.JPG)
+
+![](/images/P1022314.JPG)
+
+![](/images/P1022308.JPG)
+
+## Learning to Draw @ Galerie Flut
+
+![](/images/P1066583.JPG)
+
+![](/images/P1066768.JPG)
+
+![](/images/P1066889.JPG)
 
 ## Research
 
@@ -108,20 +132,6 @@ The sound design of the Hochschultage installation version was developed by [Chi
 ![](/images/sketches.png)
 
 ![](/images/sketches2.png)
-
-## Master Project Exhibition - Dauerwelle
-
-![](/website/P1022200_v2.JPG)
-
-![](/images/P1022195.JPG)
-
-![](/images/P1022350.JPG)
-
-![](/images/P1022281.JPG)
-
-![](/images/P1022314.JPG)
-
-![](/images/P1022308.JPG)
 
 ## References:
 
