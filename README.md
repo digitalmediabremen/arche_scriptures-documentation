@@ -11,7 +11,7 @@
 
 ![](/images/arche-scriptures_big.gif)
 
-__ARCHE-SCRIPTURES__ revolves around understanding ceramics as a possible medium to store digital information. It _"emerges from an impossibility, from the ambivalence between two disparate realms: archaism and future"_ - it proposes an archaic digital medium, a paradox of fragility and permanence, which seeks to _"resignify the assumed linearity between past and future, deconstruct the idea of vertical time, history and technology"_.
+__ARCHE-SCRIPTURES__ revolves around understanding ceramics as a possible medium to store digital information. It _"emerges from an impossibility, from the ambivalence between two disparate realms: archaism and future"_ - it proposes an archaic digital medium, a paradox of fragility and permanence, which seeks to _"resignify the assumed linearity between past and future, deconstruct the idea of vertical time, history and technology"_[(BORGES, Fabi)](http://europia.org/cac6/CAC-Pdf/12-CAC6-16-Fabi_Malu_Ancestrofuturism.pdf).
 
 During the [Hochschultage 2022](https://www.hfk-bremen.de/hochschultage2022), __ARCHE-SCRIPTURES__ presents itself as a speculative archeological dig-site. At the courtyard of HfK Speicher XI building, a ceramic artifact is being scanned by an decrypting machine, through which the visitor is invited to listen as the original audio data engraved onto the ceramics is slowly retrieved and sonified. The experience offers a glimpse on a possible future past, it speculates on the future of our digital traces through an ancestro-futuristic perspective, provoking a discussion about continuity, preservation and archiving.
 
@@ -41,7 +41,7 @@ __ARCHE-SCRIPTURES__ investigates the multiple possible relationships between ce
 
 ### Starting point
 
-The research's starting point lies on the matter of digital archives, and how they are in fact materialized. After the development of the project "Pandemic Archive of Voices", a concern was made present: onto what and where are our digital traces being materialized? weather shifting on metal-oxide semiconductors or in spinning magnetic cores at data centers unevenly spread across the globe, they belong to opaque structures to which we have minimal agency. 
+The research's starting point lies on the matter of digital archives, and how they are in fact materialized. After the development of the project "Pandemic Archive of Voices", a concern was made present: onto what and where are our digital traces being materialized? whether shifting on metal-oxide semiconductors or in spinning magnetic cores at data centers unevenly spread across the globe, they belong to opaque structures to which we have minimal agency. 
 
 ### Initial references
 
@@ -55,7 +55,7 @@ Attempting to overcome these contradictions while facing archiving as a politica
 
 *Shang dynasty characters on fragments of an oracle bone dating between 1600 and 1050 BC. British Library, Or. 7694/1516*
   
-### Laser engraving ceramics
+## Laser engraving ceramics
 
 ![](/images/placas_ceramica.png)
 
@@ -67,7 +67,7 @@ The process of creating the laser engraved slabs of ceramics:
 4. The following laser engraving parameters work well for red-clay.
 5. Bring the lasered clay piece to be fired. In order for the engraving to be uniform across the plate, the heat during the firing process needs to also be more-or-less uniform across the piece. 
 
-### Plattengestaltung
+## Plattengestaltung
 
 To make the process of generating the sound image data more streamlined, I created this online tool which automatically converts the audio data to bits and exports it in .svg, which can be later directly used by the laser cutting software.
 
