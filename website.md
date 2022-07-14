@@ -35,3 +35,25 @@ The data stored in the ceramic pieces consists of voice recordings extracted fro
 ![](/website/_MG_5428.jpeg)
 
 ![](/website/arche-scriptures_Capture_big.gif)
+
+## References:
+
+1. [Archivist Manifesto, Yuk Hui](https://www.metamute.org/editorial/lab/archivist-manifesto)
+2. [Between Matter and Hand: On Gaston Bachelard’s Theory of Material Imagination, Yanping Gao](http://jcla.in/wp-content/uploads/2019/10/YANPING-GAO.pdf)
+3. [ANCESTROFUTURISM Ancestralities and Technoshamanism - Fabiane M Borges](http://europia.org/cac6/CAC-Pdf/12-CAC6-16-Fabi_Malu_Ancestrofuturism.pdf)
+
+
+## Open Source Softwares:
+- Processing/Arduino Code for the Hochscultage software version [mneunomne/archeReaderController](https://github.com/mneunomne/archeReaderController)
+- Python/OpenCV Code for the software used in Master Project Exhibition [mneunomne/fiducial_marker](https://github.com/mneunomne/fiducial_marker)
+- Browser display software for the Master Project Exhibition [mneunomne/archeology](https://github.com/mneunomne/archeology)
+- Fork from the YOLOv5 library to work on the abandoned OCR part of the project [mneunomne/YOLOv5](https://github.com/mneunomne/yolov5)
+- [Pandemic Archive of Voices](https://github.com/mneunomne/pandemic-archive-of-voices-DB)
+- [Python Audio Conversion Process](https://mneunomne.github.io/ArcheWriting/ArcheWriting.html)
+
+## Credits:
+
+- Documentation Photos & Setup: __kazu^2__
+- Sound Design: __Chi Him Chik__
+- Assistance in ceramic production: __Prof. Ute Fischer__
+- Assistance in eletronics: __Felix Fisgus__ 
