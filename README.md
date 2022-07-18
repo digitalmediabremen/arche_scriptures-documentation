@@ -39,7 +39,7 @@ The data stored in the ceramic pieces consists of voice recordings extracted fro
 
 ## Master Project Exhibition @ Dauerwelle
 
-![](/website/P1022200_v2.JPG)
+![](/images/P1022200_v2.JPG)
 
 ![](/images/P1022195.JPG)
 
