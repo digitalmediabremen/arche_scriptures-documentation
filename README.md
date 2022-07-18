@@ -4,7 +4,7 @@
 - Category: Semesterarbeit
 - Students: Alberto Harres
 - Course Title: Master Project 2021-22
-- Lecturers: Prof. Ralf Baecker, Prof. Dennis P Paul
+- Lecturers: Dr. Petra klusmeyer, Prof. Dr. Andrea Sick, Prof. Dennis P Paul, Prof. Peter von Maydell, Prof. Ralf Baecker
 - Year: WS 2021/22
 
 ## __ARCHE-SCRIPTURES__
